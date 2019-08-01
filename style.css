@@ -1,0 +1,47 @@
+.div_menu {
+    background-color: black;
+    
+    
+}
+
+.menu{
+    color: white;
+    text-decoration: underline;
+}
+
+.slider1{
+   
+    margin-top: 10px;
+    margin-left: 330px;
+    margin-right: 0px;;
+    background-position: left;
+    /* background-size: cover; */
+    width: 330px;
+    
+    
+
+}
+.slider2{
+   
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 0px;
+    background-position: right;
+    /* background-size: cover; */
+    width: 340px;
+
+
+
+}
+
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
